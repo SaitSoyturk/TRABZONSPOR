@@ -1,0 +1,20 @@
+body {
+    background-color: blue;
+    color: maroon;
+}
+ul {
+    display: inline;
+  text-align: center;
+  list-style-type: none;
+}
+header {
+    font-size: 61px;
+    text-align: center;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
